@@ -1,4 +1,4 @@
 An idea how to build a passport MRZ reader.
 
 
-![Demo](demo.mov)
+![Demo](demo.gif)
